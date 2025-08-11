@@ -14,7 +14,7 @@ function getMax(numbers) {
 
 const max = getMax(height);
 console.log('max value is', max);
-
+ // homeWork: min number
 function getMin(numbers) {
     let min = numbers[0];
     for (const number of numbers) {
